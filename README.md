@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AzureDevopsMK90
 - 👀 I’m interested in ... Terraform and Azure Cloud Deployments
 - 🌱 I’m currently learning ... Terraform, Coding methodology, Network Security on Azure
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... IaC using Terraform and or Python / Powershell Deployment Scripts
 - 📫 How to reach me ... Send me a message :) 
 
 <!---
